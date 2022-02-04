@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+EqhXLhL3T1w4Zjc1')
+                InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/malayalammoviesmms')
             ],
             [
                 InlineKeyboardButton('♻️ HΞLᎮ ♻️', url=f"https://t.me/{temp.U_NAME}?start=help")
@@ -44,8 +44,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+EqhXLhL3T1w4Zjc1'),
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+veUIdIW2CQ5mOGU5')         
+            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/malayalammoviesmms'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+0uC-iq68FaFjZGNl')         
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -87,8 +87,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+EqhXLhL3T1w4Zjc1'),
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+veUIdIW2CQ5mOGU5')         
+            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/malayalammoviesmms'),
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/+0uC-iq68FaFjZGNl')         
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
