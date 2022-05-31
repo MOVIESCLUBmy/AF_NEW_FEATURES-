@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/LXR-YOUTUBER-AMAL/Ajax",
-    "repository": "https://github.com/LXR-YOUTUBER-AMAL/Ajax",
+    "website": "https://github.com/MOVIESCLUBmy/AF-Extra-Features",
+    "repository": "https://github.com/MOVIESCLUBmy/AF-Extra-Features",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -33,7 +33,7 @@
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "required": false
+            "required": true
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
@@ -41,7 +41,7 @@
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
-            "required": false
+            "required": true
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
@@ -49,7 +49,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Username of a Support Group / ADMIN. ( Should be username without @ and not ID)",
-            "required": false
+            "required": true
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
@@ -64,8 +64,8 @@
             "required": false
         },
         "CUSTOM_FILE_CAPTION": {
-            "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "required": false
+            "description": "A custom file caption for your files. formatable with , {file_name}, {file_caption}, {file_size}, Read Readme.md for better understanding.",
+            "required": true
         },
         "DATABASE_URI": {
             "description": "mongoDB URI.",
