@@ -97,6 +97,6 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [LXR AMAL](https://t.me/malayalammoviesmmms)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [MM MOVIE GRP](https://t.me/malayalammoviesmms)                                             
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [MM OTT](https://t.me/+0uC-iq68FaFjZGNl)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [AF MHMD](https://t.me/althaf_mr)                                                                                                                                        
+𝙶𝚁𝙾𝚄𝙿 ›› [🎭 MOVIE GRP🎭](https://t.me/MOVIES_CLUB_GROUP_2)                                             
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [📀MC OTT📀](https://t.me/MOVIESCLUB_OTT_UPDATES)
