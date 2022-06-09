@@ -1,15 +1,16 @@
  version:3.10 
-
 services:
-
   worker:
+   build: .
+   environment 
+     BOT_TOKEN: $BOT_TOKEN
+     API_ID: $API_ID
+     API_HASH: $API_HASH
+          
 
-    build: .
+     
+      
+      
 
-    environment 
-
-      API_HASH: $API_HASH
-
-      API_ID: $API_ID
-
-      BOT_TOKEN: $BOT_TOKEN
+      
+      
