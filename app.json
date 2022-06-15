@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/MOVIESCLUBmy/AF-Extra-Features",
-    "repository": "https://github.com/MOVIESCLUBmy/AF-Extra-Features",
+    "website": "https://github.com/MOVIESCLUBmy/AF_NEW_FEATURES-",
+    "repository": "https://github.com/MOVIESCLUBmy/AF_NEW_FEATURES-",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
