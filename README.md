@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Ajax-Extra-FeaturesLogo">
-</p>
-<h1 align="center">
-  <b>LXR YOUTUBER-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
-</h1>
-
 
 ## Features
 
